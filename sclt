@@ -1,6 +1,6 @@
 🇨🇳IPV6线路,#genre#
 CCTV-1,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-CCTV-2,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+CCTV-2,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000023315/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000023315
 CCTV-3,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV-4,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 CCTV-5,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
@@ -64,11 +64,11 @@ CCTV-8高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227427/index.m3u8
 CCTV-9高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227425/index.m3u8
 CCTV-10高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227375/index.m3u8
 CCTV-11高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227922/index.m3u8
-CCTV12高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227377/index.m3u8
+CCTV-12高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227377/index.m3u8
 CCTV-13高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227926/index.m3u8
-CCTV14高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227379/index.m3u8
-CCTV-15高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227918/index.m3u8
-cctv17高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227577/index.m3u8
+CCTV-14高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227379/index.m3u8
+CCTV-15高清,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225601/index.m3u8
+CCTV-17高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227577/index.m3u8
 CCTV-10高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227809/index.m3u8
 河南卫视高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227923/index.m3u8
 北京纪实高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227341/index.m3u8
@@ -96,7 +96,7 @@ CGTN,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227391/index.m3u8
 四川卫视高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227417/index.m3u8
 深圳卫视高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227419/index.m3u8
 江苏卫视高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227421/index.m3u8
-四川卫视,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227633/index.m3u8
+四川卫视高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227633/index.m3u8
 SCTV-2高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227415/index.m3u8
 SCTV-3高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227413/index.m3u8
 SCTV-4高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227411/index.m3u8
@@ -153,7 +153,7 @@ CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
 CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-CCTV-15,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225601/index.m3u8
+CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225601/index.m3u8
 CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
@@ -233,23 +233,24 @@ SCTV-科教高清,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227927/index.m3u
 营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd
 长宁综合,http://cnpull.sccnfb.com/live/123456.m3u8?zsicd
 
-
-🇨🇳综合频道,#genre#
-CHC影迷电影,http://117.114.153.26:8180/TV00000000000000000094@HHZT
-探索频道,http://117.114.153.26:8180/TV00000000000000000077@HHZT
-国家地理,http://117.114.153.26:8180/TV00000000000000000112@HHZT
-STAR电影台,http://117.114.153.26:8180/TV00000000000000000075@HHZT
-STAR体育台,http://117.114.153.26:8180/TV00000000000000000070@HHZT
-AXN,http://117.114.153.26:8180/TV00000000000000000076@HHZT
-CINEMAX,http://117.114.153.26:8180/TV00000000000000000109@HHZT
-HBO,http://117.114.153.26:8180/TV00000000000000000074@HHZT
-星空卫视,http://117.114.153.26:8180/TV00000000000000000071@HHZT
-音乐台,http://117.114.153.26:8180/TV00000000000000000067@HHZT
-凤凰电影台,http://117.114.153.26:8180/TV00000000000000000072@HHZT
-凤凰资讯台,http://117.114.153.26:8180/TV00000000000000000068@HHZT
-凤凰中文台,http://117.114.153.26:8180/TV00000000000000000069@HHZT
-澳亚卫视,http://117.114.153.26:8180/TV00000000000000000082@HHZT
-
+🇨🇳特色频道,#genre#
+凤凰中文,http://58.144.154.93:80/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰资讯,http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰香港,http://58.144.154.93:80/qctv.fengshows.cn/live/0701phk72.m3u8
+CHC动作电影,http://[2001:250:5800:1005::155]:80/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
+CHC家庭影院,http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
+CHC影迷电影,http://[2001:250:5800:1005::155]:80/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
+电视剧频道1,http://zby.xjqxz.top/dsdsj1/live.m3u8
+电视剧频道2,http://zby.xjqxz.top/dsdsj2/live.m3u8
+电视剧频道3,http://zby.xjqxz.top/dsdsj3/live.m3u8
+电视剧频道4,http://zby.xjqxz.top/gzwxj/live.m3u8
+电视剧频道5,http://zby.xjqxz.top/gzdsj1/live.m3u8
+电视剧频道6,http://zby.xjqxz.top/gzdsj2/live.m3u8
+电视剧频道7,http://zby.xjqxz.top/gzdsj3/live.m3u8
+电视剧频道8,http://zby.xjqxz.top/gzdsj4/live.m3u8
+电视剧频道9,http://zby.xjqxz.top/gzdsj5/live.m3u8
+电视剧频道10,http://zby.xjqxz.top/dzzypd/live.m3u8
+电视剧频道11,http://zby.xjqxz.top/dzzypd2/live.m3u8
 
 🇨🇳 4K频道,#genre#
 江苏4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
